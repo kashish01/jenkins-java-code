@@ -8,5 +8,7 @@ class Main {
         System.out.println(new Date());
 		System.out.println("new code");
 		System.out.println("added some new code");
+        Student s = new Student();
+        s.sayHello();
     }
 }
